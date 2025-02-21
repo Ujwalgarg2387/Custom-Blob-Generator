@@ -20,6 +20,8 @@ Welcome to the **Custom Blob Generator**! This React-based application allows us
 ## Demo
 
 You can try the live demo (https://ujwalgarg-custom-blob-generator.netlify.app/).
+![Screenshot (1)](https://github.com/user-attachments/assets/92412e62-a6bc-4ccf-8077-64282fb64c99)
+
 
 ## Getting Started
 
